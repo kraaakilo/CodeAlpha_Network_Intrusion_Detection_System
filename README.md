@@ -4,7 +4,7 @@
 
 This repository contains the setup for a **Network Intrusion Detection System (NIDS)** using **Snort**, **Suricata**, and the **ELK stack**. The project involves configuring rules and alerts to monitor and respond to suspicious network activity. It also includes the setup of a **Metasploitable** machine inside Proxmox for penetration testing, designed to trigger detection rules and identify malicious activity.
 
-![System Architecture](screenshots/nids.png)
+![System Architecture](nids.png)
 
 ## Screenshots
 
